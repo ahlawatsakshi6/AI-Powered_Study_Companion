@@ -45,9 +45,7 @@ This project demonstrates the use of **React for frontend**, **Node.js for backe
 git clone <your-repo-url>
 cd ai-study-companion
 
-## ** Usage**
-
-Open the Live Demo [Live Demo](https://ai-study-companion-a-5iee.bolt.host/)
+---
 
 
 Upload or paste your study material.
