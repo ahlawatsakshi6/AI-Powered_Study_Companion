@@ -23,7 +23,6 @@ This project demonstrates the use of **React for frontend**, **Node.js for backe
 ## **Technologies Used**
 - **Frontend:** React  
 - **Backend:** Node.js + Express  
-- **Database (optional):** MongoDB (if storing user history)  
 - **AI Service:** OpenAI API for text summarization and analysis  
 - **Hosting:** [Bolt](https://ai-study-companion-a-5iee.bolt.host/)  
 
