@@ -68,11 +68,3 @@ Step 6: Visit the app
 Open your browser and go to:
 http://localhost:3000
 ---
-
-✅ **Key points:**
-1. Each step **has its own heading** (`### Step X`) so it’s clear and separate.  
-2. **Separate code blocks** for each command (` ```bash `) prevent text from appearing faded.  
-3. Plain text instructions go **outside the code block**.  
-
----
-
