@@ -42,14 +42,6 @@ Built with **React**, **Node.js**, and **OpenAI API**, this project demonstrates
 5. Users can download summaries or flashcards for revision.  
 
 ---
-
-## **Screenshots / Demo**
-> Replace with your own images or GIFs of the app in action  
-
-![Screenshot 1](./screenshots/screenshot1.png)  
-![Screenshot 2](./screenshots/screenshot2.png)  
-
----
 ## Installation & Setup
 
 ### Step 1: Clone the repository
