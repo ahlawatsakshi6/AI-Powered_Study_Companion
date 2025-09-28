@@ -7,7 +7,7 @@
 
 [🚀 Live Demo](https://ai-study-companion-a-5iee.bolt.host/)
 
----
+--- 
 
 ## 📚 Project Overview
 
